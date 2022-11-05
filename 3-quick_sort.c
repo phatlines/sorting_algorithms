@@ -57,7 +57,7 @@ int lomuto_partition(int *array, size_t size, int left, int right)
 }
 
 /**
- * lomuto_sort - Implement the quicksort algorithm through recursion.
+ * lomuto_sort - Implement the quic-ksort algorithm through recursion.
  * @array: An array of integers to sort.
  * @size: The size of the array.
  * @left: The starting index of the array partition to order.
